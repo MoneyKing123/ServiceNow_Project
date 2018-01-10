@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ServiceNow" max_length="40" name="x_175011_serviceno_servicenow" type="collection">
+        <element attributes="base_start=true" label="Table Name" max_length="80" name="s_db" type="table_name"/>
+        <element label="Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+    </element>
+</database>
